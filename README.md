@@ -6,6 +6,7 @@
 ███████║███████╗╚██████╔╝
 ╚══════╝╚══════╝ ╚═════╝
 ```
+<img width="1806" height="1347" alt="image" src="https://github.com/user-attachments/assets/00ece1c2-5e2e-4859-8b5a-d9706b81b532" />
 
 **BE ADVISED: THE PATCH TAKES 2-3 MINUTES TO COMPLETE**
 
