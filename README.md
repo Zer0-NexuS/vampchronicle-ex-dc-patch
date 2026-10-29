@@ -46,3 +46,7 @@ OTHER NATIVE SHORTCUTS RETAINED
 • Shadow: Random + START five times + attack.
 • Marionette: Random + START seven times + attack.
 • Alternate stage palette: hold START when confirming the Versus stage.
+
+##This is an unofficial, fan-made patch for Vampire Chronicle for Matching Service. I do not own the original game, its characters, artwork, music, or other original assets. All copyrights and trademarks belong to Capcom, SEGA, and their respective owners##
+
+##This project is not affiliated with, endorsed by, or sponsored by Capcom or SEGA. The patch is provided “as is,” without warranty. Please use it with a legally obtained copy of the original game.##
