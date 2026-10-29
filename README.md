@@ -21,16 +21,12 @@ ADDITIONS INCLUDED IN THIS BUILD
 1. Playable Dee, with the CPS2 character graphics/data, special/super
    controller, guard animation, teleport and sword/effect corrections.
 2. Native Dee voice integration: 24 recordings and 26 command bindings.
-   Two cues remain silent because source recording 8 was not supplied.
+   (Two cues remain silent).
 3. English native dialogue: 326 translated messages, plus Dee’s three
-   existing approved English quotes. CAP/LOW gold dialogue glyphs retained.
+   existing approved English quotes.
 4. Dee’s wordless ending route: native map/VS transition and Adult Anita
-   encounter, READY/FIGHT, automatic whiteout, then ending/credits art.
-   There is no playable Anita fight. Standard credit music and START skip
-   are retained.
-5. EX title emblem, the modified SEGA “NOT LICENSED” wording, and English
-   memory-card/loading prompts. RC41 uses the approved crisp CAP glyphs
-   and native warm-gold gradient for the prompts.
+   encounter.
+5. EX title emblem.
 6. Permanent access to EX Options and EX Editions. These expose the
    native option values and edition/stage-color choices. Some EX selections
    reset on a cold boot; the menus remain available.
@@ -42,6 +38,7 @@ ADDITIONS INCLUDED IN THIS BUILD
    REMAINING KNOWN BUGS:
 
    DARK GALLON MAY ADD LOAD TIME WHEN USING ALT PALETTE'S.
+   DEE's FULL BLOCK ANIMATION.
 
 OTHER NATIVE SHORTCUTS RETAINED
 • EX Options: Options + hold L and R + A; also accessible in the expanded menu.
