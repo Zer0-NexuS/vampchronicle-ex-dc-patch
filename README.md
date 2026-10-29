@@ -51,7 +51,7 @@ OTHER NATIVE SHORTCUTS RETAINED
 
 ##This project is not affiliated with, endorsed by, or sponsored by Capcom or SEGA. The patch is provided “as is,” without warranty. Please use it with a legally obtained copy of the original game.##
 
-**DEVELOPMENT & TOOL CREDITS: **
+**DEVELOPMENT & TOOL CREDITS**
 
 Dreamcast — SFZ2A GOLD, SFA3 Upper, Ultra SFII
 Tool / project	What we used it for
