@@ -35,10 +35,12 @@ ADDITIONS INCLUDED IN THIS BUILD
    Weak Punch dark fur/skin/red eyes and native alternate accent colors;
    their native pulse animation now follows the selected color.
 
-   REMAINING KNOWN BUGS:
+**REMAINING KNOWN BUGS**
 
-   DARK GALLON MAY ADD LOAD TIME WHEN USING ALT PALETTE'S.
-   DEE's FULL BLOCK ANIMATION.
+- CDI IS NOT HARDWARE COMPATIBLE. WORKING GDEMU IMAGE IS BEING TESTED.
+- DARK GALLON MAY ADD LOAD TIME WHEN USING ALT PALETTE'S.
+- DEE's FULL BLOCK ANIMATION.
+- DURING DARK FORCE, DEE MAY FREE MID-AIR JUMP (LOCKS GAME).
 
 OTHER NATIVE SHORTCUTS RETAINED
 • EX Options: Options + hold L and R + A; also accessible in the expanded menu.
