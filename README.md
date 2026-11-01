@@ -10,6 +10,8 @@
 
 **BE ADVISED: THE PATCH TAKES 2-3 MINUTES TO COMPLETE**
 
+**THIS CURRENTLY DOES NOT RUN ON SOFTWAARE DO TO BOOTSTRAP AND DISC MODE ISSUES. WORKING ON FIXING IT**
+
 HOW TO SELECT
 • DEE: Highlight the ? / Random square. Press and release START once,
   then confirm with any punch or kick. Works in Arcade and dedicated Versus.
