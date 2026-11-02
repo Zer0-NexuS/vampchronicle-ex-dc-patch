@@ -26,6 +26,12 @@ HOW TO SELECT
   with any punch or kick. Press START again to return to ordinary Gallon;
   moving to another character resets the choice.
 
+TODO:
+1. Import USA names.
+2. Import Donnavan's VSAV2 sprites (requested).
+3. Debug playthrough's.
+4. Create working patch for GDI only version.
+
 ADDITIONS INCLUDED IN THIS BUILD
 1. Playable Dee, with the CPS2 character graphics/data, special/super
    controller, guard animation, teleport and sword/effect corrections.
