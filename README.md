@@ -16,7 +16,7 @@
 
 **CREDIT TO YZB. THIS BUILD USES THEIR COMPRESSION ENGINE RELEASE**
 
-*For Savior & Savior 2 Mode, Dee's variation between the two is unfinished. This is the last thing to complete*
+*For Savior & Savior 2 Mode, Dee's variation between the two is unfinished. This is the last thing to complete. Dee's hud name uses my own custom e's until I finish Vsav/Vsav2 implements*
 
 HOW TO SELECT
 • DEE: Highlight the ? / Random square. Press and release START once,
