@@ -33,19 +33,20 @@ TODO:
 4. Create working patch for GDI only version.
 
 ADDITIONS INCLUDED IN THIS BUILD
-1. Playable Dee, with the CPS2 character graphics/data, special/super
+1. Replaced gold English glyphs with blue glyphs. Added Auto-Load tranlation. 
+2. Playable Dee, with the CPS2 character graphics/data, special/super
    controller, guard animation, teleport and sword/effect corrections.
-2. Native Dee voice integration: 24 recordings and 26 command bindings.
+3. Native Dee voice integration: 24 recordings and 26 command bindings.
    (Two cues remain silent).
-3. English native dialogue: 326 translated messages, plus Dee’s three
+4. English native dialogue: 326 translated messages, plus Dee’s three
    existing approved English quotes.
-4. Dee’s wordless ending route: native map/VS transition and Adult Anita
+5. Dee’s wordless ending route: native map/VS transition and Adult Anita
    encounter.
-5. EX title emblem.
-6. Permanent access to EX Options and EX Editions. These expose the
+6. EX title emblem.
+7. Permanent access to EX Options and EX Editions. These expose the
    native option values and edition/stage-color choices. Some EX selections
    reset on a cold boot; the menus remain available.
-7. Dark Gallon is selectable from Gallon. RC41 gives him Gallon’s winning
+8. Dark Gallon is selectable from Gallon. RC41 gives him Gallon’s winning
    themes for all character types. Alternate colors keep the approved
    Weak Punch dark fur/skin/red eyes and native alternate accent colors;
    their native pulse animation now follows the selected color.
