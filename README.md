@@ -8,6 +8,8 @@
 ```
 <img width="1806" height="1347" alt="image" src="https://github.com/user-attachments/assets/00ece1c2-5e2e-4859-8b5a-d9706b81b532" />
 
+<img width="1280" height="1000" alt="RC63_Character_Select" src="https://github.com/user-attachments/assets/d61a519d-87a3-48ee-8f81-bce986788c18" />
+
 **BE ADVISED: THE PATCH TAKES 2-3 MINUTES TO COMPLETE**
 
 **NOW BOOTS ON DREAMCAST AND PLAYS. UNTESTED ON GDEMU, BUT SHOULD WORK**
