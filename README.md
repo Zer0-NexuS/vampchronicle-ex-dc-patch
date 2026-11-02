@@ -14,6 +14,8 @@
 
 **NOW BOOTS ON DREAMCAST AND PLAYS. UNTESTED ON GDEMU, BUT SHOULD WORK**
 
+**CREDIT TO YZB. THIS BUILD USES THEIR COMPRESSION ENGINE RELEASE**
+
 *For Savior & Savior 2 Mode, Dee's variation between the two is unfinished. This is the last thing to complete*
 
 HOW TO SELECT
