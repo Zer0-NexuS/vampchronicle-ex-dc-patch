@@ -10,7 +10,9 @@
 
 **BE ADVISED: THE PATCH TAKES 2-3 MINUTES TO COMPLETE**
 
-**THIS CURRENTLY DOES NOT RUN ON SOFTWAARE DO TO BOOTSTRAP AND DISC MODE ISSUES. WORKING ON FIXING IT**
+**NOW BOOTS ON DREAMCAST AND PLAYS. UNTESTED ON GDEMU, BUT SHOULD WORK**
+
+*For Savior & Savior 2 Mode, Dee's variation between the two is unfinished. This is the last thing to complete*
 
 HOW TO SELECT
 • DEE: Highlight the ? / Random square. Press and release START once,
