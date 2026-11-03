@@ -27,26 +27,25 @@ HOW TO SELECT
   moving to another character resets the choice.
 
 TODO:
-1. Import USA names.
-2. Import Donnavan's VSAV2 sprites (requested).
-3. Debug playthrough's.
-4. Create working patch for GDI only version.
+1. Debug playthrough's.
+2. Create working patch for GDI only version.
 
 ADDITIONS INCLUDED IN THIS BUILD
-1. Replaced gold English glyphs with blue glyphs. Added Auto-Load tranlation. 
-2. Playable Dee, with the CPS2 character graphics/data, special/super
+1. Import USA names (7.1).
+2. Replaced gold English glyphs with blue glyphs. Added Auto-Load tranlation. 
+3. Playable Dee, with the CPS2 character graphics/data, special/super
    controller, guard animation, teleport and sword/effect corrections.
-3. Native Dee voice integration: 24 recordings and 26 command bindings.
+4. Native Dee voice integration: 24 recordings and 26 command bindings.
    (Two cues remain silent).
-4. English native dialogue: 326 translated messages, plus Dee’s three
+5. English native dialogue: 326 translated messages, plus Dee’s three
    existing approved English quotes.
-5. Dee’s wordless ending route: native map/VS transition and Adult Anita
+6. Dee’s wordless ending route: native map/VS transition and Adult Anita
    encounter.
-6. EX title emblem.
-7. Permanent access to EX Options and EX Editions. These expose the
+7. EX title emblem.
+8. Permanent access to EX Options and EX Editions. These expose the
    native option values and edition/stage-color choices. Some EX selections
    reset on a cold boot; the menus remain available.
-8. Dark Gallon is selectable from Gallon. RC41 gives him Gallon’s winning
+9. Dark Gallon is selectable from Gallon. RC41 gives him Gallon’s winning
    themes for all character types. Alternate colors keep the approved
    Weak Punch dark fur/skin/red eyes and native alternate accent colors;
    their native pulse animation now follows the selected color.
