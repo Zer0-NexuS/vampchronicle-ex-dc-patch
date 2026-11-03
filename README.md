@@ -32,7 +32,7 @@ TODO:
 3. Create working patch for GDI only version.
 
 ADDITIONS INCLUDED IN THIS BUILD
-1. Import USA names (7.1).
+1. Imported USA names (7.1).
 2. Replaced gold English glyphs with blue glyphs. Added Auto-Load tranlation. 
 3. Playable Dee, with the CPS2 character graphics/data, special/super
    controller, guard animation, teleport and sword/effect corrections.
