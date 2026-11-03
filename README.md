@@ -28,7 +28,8 @@ HOW TO SELECT
 
 TODO:
 1. Debug playthrough's.
-2. Create working patch for GDI only version.
+2. Memory overlap caused Dee's ending to hang. *FIXED* **(Reported by ShinMamoruX)**
+3. Create working patch for GDI only version.
 
 ADDITIONS INCLUDED IN THIS BUILD
 1. Import USA names (7.1).
