@@ -28,7 +28,7 @@ HOW TO SELECT
 
 TODO:
 1. Debug playthrough's.
-2. Memory overlap caused Dee's ending to hang. *RC7.4 FIXED* **(Reported by ShinMamoruX)**
+2. Memory overlap caused Dee's ending to hang. *RC7.4 FIXED NOT CONFIRMED* **(Reported by ShinMamoruX)**
 3. Create working patch for GDI only version.
 
 ADDITIONS INCLUDED IN THIS BUILD
